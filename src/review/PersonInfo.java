@@ -69,6 +69,7 @@ class PersonInfo implements Serializable {
     @Override
     public int hashCode() {
         return Objects.hash(name, id, address, phone);
+
     }
 
 }
