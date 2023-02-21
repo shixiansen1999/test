@@ -2095,6 +2095,6 @@ public class Review implements Serializable {
 
     @Test
     public void test1(){
-
+        System.out.println("life is fucking live");
     }
 }
