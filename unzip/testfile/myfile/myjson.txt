@@ -1,0 +1,8 @@
+#add data
+#update
+#Mon Nov 07 17:28:08 CST 2022
+address=beijing
+phone=10001
+age=18
+name=wangxiaobo
+sex=man
